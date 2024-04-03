@@ -1,0 +1,147 @@
+.cube{
+    background-color: darkolivegreen;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+
+}
+
+.grid_container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: repeat(4,1fr);
+    grid-gap: 3px;
+}
+.grid_container > h2{
+    margin: 0px;
+    padding: 0px;
+}
+
+.fanta{
+    background-color: rgb(223, 148, 9);
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.coke{
+    background-color: rgb(39, 13, 13);
+    color: aliceblue;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sprite{
+    background-color: rgb(28, 94, 28);
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chapman{
+    background-color: rgb(185, 44, 44);
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banana{
+    background-color: rgb(89, 138, 15);
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.apple{
+    background-color: rgb(157, 255, 0);
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.mango{
+    background-color: green;
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.orange{
+    background-color: orangered;
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.plastic{
+    background-color: blue;
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wood{
+    background-color: rgb(161, 39, 39);
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cement{
+    background-color: rgb(105, 37, 105);
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.glass{
+    background-color: grey;
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chicken{
+    background-color: rgb(93, 206, 226);
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.beef{
+    background-color: maroon;
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pork{
+    background-color: tomato;
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fish{
+    background-color: rgb(235, 213, 125);
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
